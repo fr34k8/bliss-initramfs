@@ -14,7 +14,7 @@ name = "Bliss Initramfs"
 author = "Jonathan Vasquez"
 email = "jvasquez1011@gmail.com"
 contact = author + " <" + email + ">"
-version = "6.7.1"
+version = "6.8.0"
 license = "Mozilla Public License 2.0"
 
 # Locations
